@@ -19,7 +19,7 @@
         "php": ">=5.5.9",
         "illuminate/support": "^5.1",
         "appzcoder/crud-generator": "2.0.8",
-        "laravelcollective/html": "5.4.9"
+        "heaps-good-services/html": "5.4.9"
     },
     "autoload": {
         "psr-4": {
